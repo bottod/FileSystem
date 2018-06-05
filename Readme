@@ -1,0 +1,12 @@
+just use g++ commmand to compiler it
+
+you can use following statement 
+
+	g++ -o sys FileSystem.cpp main.cpp
+
+then this dir will show a sys app
+./sys arg 
+and create a filesystem
+and start it by enter you username and password 
+then input help for help info
+ 
